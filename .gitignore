@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.bak-*
+*.tmp
+.tmp*
+tmp/
+node_modules/
+
+# local agent harness state
+.claude/
+.codex/
+.zcode/
+.trae/
+.agents/
+.workbuddy/
+.qoder*/
+
+# editor
+.idea/
+.vscode/
+
+# local scratch
+session-memory.md
